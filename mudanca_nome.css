@@ -21,16 +21,28 @@ body { background-color:#E0E6EC; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_1b166e26 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#E0E6EC; border-top: none; border-left: none; border-right: none; border-bottom: 2px solid #000040;  }
 #container_1b166e26_padding { margin: 10px; display: block;  }
+#img_33e818a { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 70px; background:none; height:auto;  }
+#menu_64f37254 { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 10px; width:40%; height:37px; text-align:left; background-color:#E0E6EC;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:117px; height:37px; left:50px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:147px; height:37px; left:50px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
+.textstyle3 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:182px; height:37px; left:197px;  }
+.menustyle4 { position:absolute; width:151px; height:37px; left:379px;  }
+.textstyle4 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 #placeh_21c46e0d { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:78px;  }
 #container_77363bda { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:648px; background-color:#F2E2DE;  }
 #container_77363bda_padding { margin: 10px 10px 10px 70px; display: block;  }
-.textstyle2 { text-align:center; }
+.textstyle5 { text-align:center; }
 #container_44bdc134 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background:none;  }
 #container_44bdc134_padding { margin: 10px 10px 10px -20px; display: block;  }
-.textstyle3 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
-.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-.textstyle5 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
-.textstyle6 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000;  }
+.textstyle6 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle8 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle9 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000;  }
 .ulstyle1 { margin:0; font-size: 14pt; color:#000000;  }
 #container_19319582 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:68px; background-color:#E0E6EC;  }
 #container_19319582_padding { margin: 10px; display: block;  }
@@ -62,23 +74,9 @@ body { background-color:#E0E6EC; padding:0;  margin: 0; }
 #container_48740da6 { vertical-align: top; position:relative; display: inline-block; width:20%; min-height:128px; background:none;  }
 #container_48740da6_padding { margin: 10px; display: block;  }
 #button_4ae1bf1e { box-sizing: border-box; border-radius: 5px; position:absolute; left:15%; top:4%; width:110px; height:40px; background-color:rgba(224, 230, 236, 0.498039); border: 2px solid #595959; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
-#img_33e818a { position:absolute; left:7%; top:1%; width:12%; background:none; height:auto;  }
-#menu_64f37254 { position:absolute; left:20%; top:1%; width:40%; height:37px; text-align:left; background-color:#E0E6EC;  }
-.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
-.menustyle1 { position:absolute; width:117px; height:37px; left:50px;  }
-.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
-.textstyle7 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:147px; height:37px; left:50px;  }
-.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
-.textstyle8 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:182px; height:37px; left:197px;  }
-.menustyle4 { position:absolute; width:151px; height:37px; left:379px;  }
-.textstyle9 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 #container_3bd38d17 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:68px; background-color:#E0E6EC; border-top: 2px solid #000040; border-left: none; border-right: none; border-bottom: none;  }
 #container_3bd38d17_padding { margin: 10px; display: block;  }
-#img_46b0c69c { position:absolute; left:9%; top:11%; width:13%; background:none; height:auto;  }
-#text_7b66f638 { position:absolute; left:81%; top:10%; background:none;  }
-#img_9e8f6cb { position:absolute; left:78%; top:10%; width:2%; background:none; height:auto;  }
+#img_46b0c69c { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 70px; width:13%; background:none; height:auto;  }
 @media only screen and (max-width: 400px)
 {
 		#container_731bdc21 { width:100%;  }

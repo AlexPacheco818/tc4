@@ -5,30 +5,78 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="outros_docs.css?h=0891890f">
+	<link rel="stylesheet" type="text/css" href="outros_docs.css?h=9df4186e">
 </head>
 <body>
 <div class="textstyle1">
-<div id="container_1b166e26"><div id="container_1b166e26_padding" ></div></div><div  id="placeh_21c46e0d" >
+<div id="container_1b166e26"><div id="container_1b166e26_padding" ><div class="textstyle1"><img src="rc_images/tc2.png" width="191" height="40" id="img_33e818a" alt="" title="" /><div id="menu_64f37254"><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_7912be8c"  class="menustyle1 menu_64f37254_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle2">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="index.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_3f14847d"  class="menustyle2 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">In&#237;cio</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Recursos" >
+	<div id="menuentry_297d27c3"  class="menustyle3 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">Recursos</span>
+		</div>
+	</div>
+</a>
+<a href="sobre.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_353a5805"  class="menustyle4 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">Sobre</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_64f37254= new wsp_menu('menu_64f37254', 'menu_64f37254', 50, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 50, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_64f37254.createMenuForItem('menuentry_7912be8c', ["  <span class=\"textstyle4\">In&#237;cio</span> ", 'index.html', '',
+		                                   "  <span class=\"textstyle4\">Recursos</span> ", 'javascript:void(0);', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Profissionais de Sa&#250;de, Hospitais e Cl&#237;nicas</span> ", 'clinicas.html', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Documentos e Procedimentos Administrativos</span> ", 'docs', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Comunidade</span> ", 'comunidade.html', '',
+		                                   "  <span class=\"textstyle4\">Sobre</span> ", 'sobre.html', '']
+		                                   , true);
+		js_menu_64f37254.createMenuForItem('menuentry_3f14847d', []);
+		js_menu_64f37254.createMenuForItem('menuentry_297d27c3', ["  <span class=\"textstyle4\">Profissionais de Sa&#250;de, Hospitais e Cl&#237;nicas</span> ", 'clinicas.html', '',
+		                                   "  <span class=\"textstyle4\">Documentos e Procedimentos Administrativos</span> ", 'docs', '',
+		                                   "  <span class=\"textstyle4\">Comunidade</span> ", 'comunidade.html', '']);
+		js_menu_64f37254.createMenuForItem('menuentry_353a5805', []);
+
+	</script>
+</div></div></div>
+<div style="clear:both"></div></div></div><div  id="placeh_21c46e0d" >
   <div class="textstyle1">
-<div id="container_75164be8"><div id="container_75164be8_padding" ><div class="textstyle1"><div id="container_25a70978"><div id="container_25a70978_padding" ><div class="textstyle1">    <span class="textstyle2">Altera&#231;&#227;o de nome em outros documentos</span>
+<div id="container_75164be8"><div id="container_75164be8_padding" ><div class="textstyle1"><div id="container_25a70978"><div id="container_25a70978_padding" ><div class="textstyle1">    <span class="textstyle5">Altera&#231;&#227;o de nome em outros documentos</span>
 </div>
-</div></div><span class="textstyle3"><br/><br/><br/>Atualiza&#231;&#227;o de diplomas e certificados de habilita&#231;&#227;o do ensino superior</span><span class="textstyle4"><br/><br/>Foi publicada pelo Minist&#233;rio da Ci&#234;ncia, Tecnologia e Ensino Superior uma recomenda&#231;&#227;o &#224;s institui&#231;&#245;es de ensino superior para que o direito &#224; autodetermina&#231;&#227;o de g&#233;nero seja respeitado nestas institui&#231;&#245;es de ensino e em meio acad&#233;mico. <br/><br/>De acordo com esta recomenda&#231;&#227;o, um estudante ou qualquer outro elemento da institui&#231;&#227;o que tenha mudado de nome e marcador de sexo no Cart&#227;o de Cidad&#227;o pode pedir a atualiza&#231;&#227;o do nome e men&#231;&#227;o do sexo nos documentos administrativos. Esta mudan&#231;a &#233; confidencial, e s&#243; &#233; preciso apresentar o Cart&#227;o de Cidad&#227;o atualizado (n&#227;o podem exigir a apresenta&#231;&#227;o de qualquer outro documento para al&#233;m deste). <br/><br/>Esta recomenda&#231;&#227;o inclui a atualiza&#231;&#227;o de diplomas e outros documentos relativos &#224; certifica&#231;&#227;o de habilita&#231;&#245;es, sendo que a emiss&#227;o destes documentos atualizados n&#227;o deve ser cobrada caso essa cobran&#231;a j&#225; tenha sido feita no passado.<br/><br/>Caso a pessoa ainda n&#227;o tenha mudado o nome e marcador de sexo no Cart&#227;o de Cidad&#227;o, as institui&#231;&#245;es de ensino devem atualizar os documentos que est&#227;o expostos ao p&#250;blico para que mostrem o nome adotado da pessoa. Os documentos internos podem manter, sob confidencialidade, o nome que consta nos registos oficiais.<br/><br/> <br/></span><span class="textstyle3">Utiliza&#231;&#227;o do nome adotado antes da mudan&#231;a nos registos</span><span class="textstyle4"><br/><br/>Mesmo que uma pessoa n&#227;o tenha mudado o nome nos registos, a lei n.&#186; 38/2018, de 7 de agosto estabelece que, quando &#233; necess&#225;rio indicar os dados de um documento de identifica&#231;&#227;o, uma pessoa (ou o seu representante legal) pode pedir para usar as iniciais do nome pr&#243;prio que consta no documento, seguido do nome adotado, apelido completo e n&#250;mero do documento de identifica&#231;&#227;o. </span></div>
-<div style="clear:both"></div></div></div><div id="container_5ca6f556"><div id="container_5ca6f556_padding" ><div class="textstyle1"><div id="container_203c19b5"><div id="container_203c19b5_padding" ><div class="textstyle1">    <span class="textstyle2">Documentos</span>
+</div></div><span class="textstyle6"><br/><br/><br/>Atualiza&#231;&#227;o de diplomas e certificados de habilita&#231;&#227;o do ensino superior</span><span class="textstyle7"><br/><br/>Foi publicada pelo Minist&#233;rio da Ci&#234;ncia, Tecnologia e Ensino Superior uma recomenda&#231;&#227;o &#224;s institui&#231;&#245;es de ensino superior para que o direito &#224; autodetermina&#231;&#227;o de g&#233;nero seja respeitado nestas institui&#231;&#245;es de ensino e em meio acad&#233;mico. <br/><br/>De acordo com esta recomenda&#231;&#227;o, um estudante ou qualquer outro elemento da institui&#231;&#227;o que tenha mudado de nome e marcador de sexo no Cart&#227;o de Cidad&#227;o pode pedir a atualiza&#231;&#227;o do nome e men&#231;&#227;o do sexo nos documentos administrativos. Esta mudan&#231;a &#233; confidencial, e s&#243; &#233; preciso apresentar o Cart&#227;o de Cidad&#227;o atualizado (n&#227;o podem exigir a apresenta&#231;&#227;o de qualquer outro documento para al&#233;m deste). <br/><br/>Esta recomenda&#231;&#227;o inclui a atualiza&#231;&#227;o de diplomas e outros documentos relativos &#224; certifica&#231;&#227;o de habilita&#231;&#245;es, sendo que a emiss&#227;o destes documentos atualizados n&#227;o deve ser cobrada caso essa cobran&#231;a j&#225; tenha sido feita no passado.<br/><br/>Caso a pessoa ainda n&#227;o tenha mudado o nome e marcador de sexo no Cart&#227;o de Cidad&#227;o, as institui&#231;&#245;es de ensino devem atualizar os documentos que est&#227;o expostos ao p&#250;blico para que mostrem o nome adotado da pessoa. Os documentos internos podem manter, sob confidencialidade, o nome que consta nos registos oficiais.<br/><br/> <br/></span><span class="textstyle6">Utiliza&#231;&#227;o do nome adotado antes da mudan&#231;a nos registos</span><span class="textstyle7"><br/><br/>Mesmo que uma pessoa n&#227;o tenha mudado o nome nos registos, a lei n.&#186; 38/2018, de 7 de agosto estabelece que, quando &#233; necess&#225;rio indicar os dados de um documento de identifica&#231;&#227;o, uma pessoa (ou o seu representante legal) pode pedir para usar as iniciais do nome pr&#243;prio que consta no documento, seguido do nome adotado, apelido completo e n&#250;mero do documento de identifica&#231;&#227;o. </span></div>
+<div style="clear:both"></div></div></div><div id="container_5ca6f556"><div id="container_5ca6f556_padding" ><div class="textstyle1"><div id="container_203c19b5"><div id="container_203c19b5_padding" ><div class="textstyle1">    <span class="textstyle5">Documentos</span>
 </div>
-</div></div><div id="container_6ef42153"><div id="container_6ef42153_padding" ><div class="textstyle1"><div id="container_10db2fb0"><div id="container_10db2fb0_padding" ><div class="textstyle1"><div id="container_586c6f3e"><div id="container_586c6f3e_padding" ><div class="textstyle1">    <span class="textstyle4">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
+</div></div><div id="container_6ef42153"><div id="container_6ef42153_padding" ><div class="textstyle1"><div id="container_10db2fb0"><div id="container_10db2fb0_padding" ><div class="textstyle1"><div id="container_586c6f3e"><div id="container_586c6f3e_padding" ><div class="textstyle1">    <span class="textstyle7">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
 </div>
 </div></div><div id="container_1461f761"><div id="container_1461f761_padding" ><div class="textstyle1">    <a href="https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863" target="_blank" style="text-decoration:none"><div id="button_3ee130ad">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
         </div></div>
       </div></a>
     <a href="https://4e947f92-21a3-4cc8-bb9b-62e868cf3d1a.filesusr.com/ugd/c365a0_8e04694068894c7ca1a4f6946d78662b.pdf" target="_blank" style="text-decoration:none"><div id="button_25631d66">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Download</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Download</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -36,11 +84,11 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_479e541f"><div id="container_479e541f_padding" ><div class="textstyle1"><div id="container_7b29d003"><div id="container_7b29d003_padding" ><div class="textstyle1">    <span class="textstyle4">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
+<div style="clear:both"></div></div></div><div id="container_479e541f"><div id="container_479e541f_padding" ><div class="textstyle1"><div id="container_7b29d003"><div id="container_7b29d003_padding" ><div class="textstyle1">    <span class="textstyle7">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
 </div>
 </div></div><div id="container_55438bde"><div id="container_55438bde_padding" ><div class="textstyle1">    <a href="https://www.cig.gov.pt/wp-content/uploads/2020/05/Recomenda%C3%A7%C3%A3o-%C3%A0s-Institui%C3%A7%C3%B5es-de-Ensino-Superior-no-%C3%A2mbito-da-Lei-n.%C2%BA-38.2018-de-7-de-agosto.pdf" target="_blank" style="text-decoration:none"><div id="button_766ea345">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -52,61 +100,7 @@
 <div style="clear:both"></div></div></div></div>
 <div style="clear:both"></div></div></div>    </div>
 </div>
-<img src="rc_images/tc2.png" width="191" height="40" id="img_33e818a" alt="" title="" /><div id="menu_64f37254"><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
-	<div id="menuentry_7912be8c"  class="menustyle1 menu_64f37254_mainMenuEntry mobileEntry">
-		<div class="menuentry_text1">
-  <span class="textstyle7">&#8801;</span>
-		</div>
-	</div>
-</a>
-<a href="index.html" style="text-decoration:none" tabindex="-1">
-	<div id="menuentry_3f14847d"  class="menustyle2 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle8">In&#237;cio</span>
-		</div>
-	</div>
-</a>
-<a href="javascript:void(0);" tabindex="-1" aria-label="Recursos" >
-	<div id="menuentry_297d27c3"  class="menustyle3 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle8">Recursos</span>
-		</div>
-	</div>
-</a>
-<a href="sobre.html" style="text-decoration:none" tabindex="-1">
-	<div id="menuentry_353a5805"  class="menustyle4 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle8">Sobre</span>
-		</div>
-	</div>
-</a>
-
-	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
-	<script type="text/javascript">
-		var js_menu_64f37254= new wsp_menu('menu_64f37254', 'menu_64f37254', 50, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 50, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
-
-		js_menu_64f37254.createMenuForItem('menuentry_7912be8c', ["  <span class=\"textstyle9\">In&#237;cio</span> ", 'index.html', '',
-		                                   "  <span class=\"textstyle9\">Recursos</span> ", 'javascript:void(0);', '',
-		                                   "  <span class=\"textstyle9\">&#160;&#160;&#160;Hospitais, Cl&#237;nicas e M&#233;dicos</span> ", 'clinicas.html', '',
-		                                   "  <span class=\"textstyle9\">&#160;&#160;&#160;Documentos e Procedimentos Administrativos</span> ", 'docs', '',
-		                                   "  <span class=\"textstyle9\">&#160;&#160;&#160;Comunidade</span> ", 'comunidade.html', '',
-		                                   "  <span class=\"textstyle9\">Sobre</span> ", 'sobre.html', '']
-		                                   , true);
-		js_menu_64f37254.createMenuForItem('menuentry_3f14847d', []);
-		js_menu_64f37254.createMenuForItem('menuentry_297d27c3', ["  <span class=\"textstyle9\">Hospitais, Cl&#237;nicas e M&#233;dicos</span> ", 'clinicas.html', '',
-		                                   "  <span class=\"textstyle9\">Documentos e Procedimentos Administrativos</span> ", 'docs', '',
-		                                   "  <span class=\"textstyle9\">Comunidade</span> ", 'comunidade.html', '']);
-		js_menu_64f37254.createMenuForItem('menuentry_353a5805', []);
-
-	</script>
-</div></div><div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle1">  <img src="rc_images/tc2.png" width="191" height="40" id="img_46b0c69c" alt="" title="" />
-  <div id="text_7b66f638">
-    <div class="textstyle1">
-      <span class="textstyle6">geral@TransCenas.org</span>
-      </div>
-    </div>
-  <img src="rc_images/openclipart_vectors_letter_147563_1920.png" width="1920" height="1372" id="img_9e8f6cb" alt="" title="" />
-</div>
+<div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle8"><img src="rc_images/tc2.png" width="191" height="40" id="img_46b0c69c" alt="" title="" /><span class="textstyle9">       geral@TransCenas.org</span></div>
 <div style="clear:both"></div></div></div>  </div>
 </body>
 </html>

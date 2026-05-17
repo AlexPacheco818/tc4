@@ -5,81 +5,129 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="docs.css?h=757f5224">
+	<link rel="stylesheet" type="text/css" href="docs.css?h=f5f5d8ce">
 </head>
 <body>
 <div class="textstyle1">
-<div id="container_1b166e26"><div id="container_1b166e26_padding" ></div></div><div  id="placeh_21c46e0d" >
+<div id="container_1b166e26"><div id="container_1b166e26_padding" ><div class="textstyle1"><img src="rc_images/tc2.png" width="191" height="40" id="img_33e818a" alt="" title="" /><div id="menu_64f37254"><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_7912be8c"  class="menustyle1 menu_64f37254_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle2">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="index.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_3f14847d"  class="menustyle2 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">In&#237;cio</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Recursos" >
+	<div id="menuentry_297d27c3"  class="menustyle3 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">Recursos</span>
+		</div>
+	</div>
+</a>
+<a href="sobre.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_353a5805"  class="menustyle4 menu_64f37254_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle3">Sobre</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_64f37254= new wsp_menu('menu_64f37254', 'menu_64f37254', 50, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 50, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_64f37254.createMenuForItem('menuentry_7912be8c', ["  <span class=\"textstyle4\">In&#237;cio</span> ", 'index.html', '',
+		                                   "  <span class=\"textstyle4\">Recursos</span> ", 'javascript:void(0);', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Profissionais de Sa&#250;de, Hospitais e Cl&#237;nicas</span> ", 'clinicas.html', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Documentos e Procedimentos Administrativos</span> ", 'docs', '',
+		                                   "  <span class=\"textstyle4\">&#160;&#160;&#160;Comunidade</span> ", 'comunidade.html', '',
+		                                   "  <span class=\"textstyle4\">Sobre</span> ", 'sobre.html', '']
+		                                   , true);
+		js_menu_64f37254.createMenuForItem('menuentry_3f14847d', []);
+		js_menu_64f37254.createMenuForItem('menuentry_297d27c3', ["  <span class=\"textstyle4\">Profissionais de Sa&#250;de, Hospitais e Cl&#237;nicas</span> ", 'clinicas.html', '',
+		                                   "  <span class=\"textstyle4\">Documentos e Procedimentos Administrativos</span> ", 'docs', '',
+		                                   "  <span class=\"textstyle4\">Comunidade</span> ", 'comunidade.html', '']);
+		js_menu_64f37254.createMenuForItem('menuentry_353a5805', []);
+
+	</script>
+</div></div></div>
+<div style="clear:both"></div></div></div><div  id="placeh_21c46e0d" >
   <div class="textstyle1">
-<div id="container_7bfc192b"><div id="container_7bfc192b_padding" ><div class="textstyle1"><span class="textstyle2">Documentos e Procedimentos Administrativos<br/></span><span class="textstyle3"><br/></span><span class="textstyle4">Informa&#231;&#227;o sobre v&#225;rios procedimentos administrativos para mudan&#231;a de nome, atualiza&#231;&#227;o de documentos, e legisla&#231;&#227;o.</span></div>
-</div></div><div id="container_4466483b"><div id="container_4466483b_padding" ><div class="textstyle1"><div id="container_7d35d100"><div id="container_7d35d100_padding" ><div class="textstyle5">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_2b8572f0">
+<div id="container_7bfc192b"><div id="container_7bfc192b_padding" ><div class="textstyle1"><span class="textstyle5">Documentos e Procedimentos Administrativos<br/></span><span class="textstyle6"><br/></span><span class="textstyle7">Informa&#231;&#227;o sobre v&#225;rios procedimentos administrativos para mudan&#231;a de nome, atualiza&#231;&#227;o de documentos, e legisla&#231;&#227;o.</span></div>
+</div></div><div id="container_4466483b"><div id="container_4466483b_padding" ><div class="textstyle1"><div id="container_7d35d100"><div id="container_7d35d100_padding" ><div class="textstyle8">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_2b8572f0">
       <div id="button_2b8572f0_padding" >
-        <div class="textstyle5">
-          <span class="textstyle4">Mudan&#231;a de nome pr&#243;prio no Cart&#227;o de Cidad&#227;o e marcador de sexo</span>
+        <div class="textstyle8">
+          <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio e marcador de sexo no Cart&#227;o de Cidad&#227;o</span>
           </div>
         <div class="textstyle1">
           </div>
         </div>
       </div></a>
 </div>
-<div class="textstyle1">    <span class="textstyle6"><br/><br/></span>
+<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
 </div>
-<div class="textstyle5">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_39d385">
+<div class="textstyle8">    <a href="mudanca-sem-marc" style="text-decoration:none"><div id="button_39d385">
       <div id="button_39d385_padding" >
-        <div class="textstyle5">
-          <span class="textstyle4">Mudan&#231;a de nome pr&#243;prio no Cart&#227;o de Cidad&#227;o sem mudan&#231;a do marcador de sexo</span>
+        <div class="textstyle8">
+          <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio no Cart&#227;o de Cidad&#227;o sem mudan&#231;a do marcador de sexo</span>
           </div>
         <div class="textstyle1">
           </div>
         </div>
       </div></a>
 </div>
-<div class="textstyle1">    <span class="textstyle6"><br/><br/></span>
+<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
 </div>
-<div class="textstyle5">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_39cca7a0">
+<div class="textstyle8">    <a href="mudanca_escolar" style="text-decoration:none"><div id="button_39cca7a0">
       <div id="button_39cca7a0_padding" >
         <div class="textstyle1">
           </div>
-        <div class="textstyle5">
-          <span class="textstyle4">Altera&#231;&#227;o de nome em contexto escolar</span>
+        <div class="textstyle8">
+          <span class="textstyle7">Altera&#231;&#227;o de nome em contexto escolar</span>
           </div>
         <div class="textstyle1">
           </div>
         </div>
       </div></a>
 </div>
-<div class="textstyle1">    <span class="textstyle6"><br/><br/></span>
+<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
 </div>
-<div class="textstyle5">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_184209dd">
+<div class="textstyle8">    <a href="outros_docs" style="text-decoration:none"><div id="button_184209dd">
       <div id="button_184209dd_padding" >
         <div class="textstyle1">
           </div>
-        <div class="textstyle5">
-          <span class="textstyle4">Altera&#231;&#227;o de nome em outros documentos</span>
+        <div class="textstyle8">
+          <span class="textstyle7">Altera&#231;&#227;o de nome em outros documentos</span>
           </div>
         <div class="textstyle1">
           </div>
         </div>
       </div></a>
 </div>
-<div class="textstyle1">    <span class="textstyle6"><br/><br/></span>
+<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_5263dfac"><div id="container_5263dfac_padding" ><div class="textstyle1"><div id="container_71037a78"><div id="container_71037a78_padding" ><div class="textstyle1">    <span class="textstyle7">Documentos</span>
+<div style="clear:both"></div></div></div><div id="container_5263dfac"><div id="container_5263dfac_padding" ><div class="textstyle1"><div id="container_71037a78"><div id="container_71037a78_padding" ><div class="textstyle1">    <span class="textstyle10">Documentos</span>
 </div>
-</div></div><div id="container_5d6f4aff"><div id="container_5d6f4aff_padding" ><div class="textstyle1"><div id="container_3ecdb7db"><div id="container_3ecdb7db_padding" ><div class="textstyle1">    <span class="textstyle4">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
+</div></div><div id="container_5d6f4aff"><div id="container_5d6f4aff_padding" ><div class="textstyle1"><div id="container_3ecdb7db"><div id="container_3ecdb7db_padding" ><div class="textstyle1">    <span class="textstyle7">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
 </div>
 </div></div><div id="container_495230ef"><div id="container_495230ef_padding" ><div class="textstyle1">    <a href="https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863" target="_blank" style="text-decoration:none"><div id="button_4447d3e4">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
         </div></div>
       </div></a>
     <a href="https://4e947f92-21a3-4cc8-bb9b-62e868cf3d1a.filesusr.com/ugd/c365a0_8e04694068894c7ca1a4f6946d78662b.pdf" target="_blank" style="text-decoration:none"><div id="button_1383d4b1">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Download</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Download</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -87,11 +135,11 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_59bce299"><div id="container_59bce299_padding" ><div class="textstyle1"><div id="container_1c4ecbc4"><div id="container_1c4ecbc4_padding" ><div class="textstyle1">    <span class="textstyle4">Mudan&#231;a de nome pr&#243;prio sem mudan&#231;a do marcador se sexo: C&#243;digo do Registo Civil - CRC - Artigo 104.&#186; Decreto-Lei n.&#186; 131/95</span>
+<div style="clear:both"></div></div></div><div id="container_59bce299"><div id="container_59bce299_padding" ><div class="textstyle1"><div id="container_1c4ecbc4"><div id="container_1c4ecbc4_padding" ><div class="textstyle1">    <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio sem mudan&#231;a do marcador se sexo: C&#243;digo do Registo Civil - CRC - Artigo 104.&#186; Decreto-Lei n.&#186; 131/95</span>
 </div>
 </div></div><div id="container_7f1a60d2"><div id="container_7f1a60d2_padding" ><div class="textstyle1">    <a href="https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-34525275-58996090" target="_blank" style="text-decoration:none"><div id="button_76c2aff2">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -99,11 +147,11 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_3669e0f5"><div id="container_3669e0f5_padding" ><div class="textstyle1"><div id="container_36035886"><div id="container_36035886_padding" ><div class="textstyle1">    <span class="textstyle4">Lista de nomes pr&#243;prios por g&#233;nero</span>
+<div style="clear:both"></div></div></div><div id="container_3669e0f5"><div id="container_3669e0f5_padding" ><div class="textstyle1"><div id="container_36035886"><div id="container_36035886_padding" ><div class="textstyle1">    <span class="textstyle7">Lista de nomes pr&#243;prios por g&#233;nero</span>
 </div>
 </div></div><div id="container_301a3c75"><div id="container_301a3c75_padding" ><div class="textstyle1">    <a href="https://irn.justica.gov.pt/Portals/33/Regras%20Nome%20Proprio/Lista%20Nomes%20Pr%C3%B3prios.pdf?ver=WNDmmwiSO3uacofjmNoxEQ%3D%3D" target="_blank" style="text-decoration:none"><div id="button_36360adc">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -111,11 +159,11 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_38804bc0"><div id="container_38804bc0_padding" ><div class="textstyle1"><div id="container_94cf1da"><div id="container_94cf1da_padding" ><div class="textstyle1">    <span class="textstyle4">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
+<div style="clear:both"></div></div></div><div id="container_38804bc0"><div id="container_38804bc0_padding" ><div class="textstyle1"><div id="container_94cf1da"><div id="container_94cf1da_padding" ><div class="textstyle1">    <span class="textstyle7">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
 </div>
 </div></div><div id="container_3a226f88"><div id="container_3a226f88_padding" ><div class="textstyle1">    <a href="https://www.cig.gov.pt/wp-content/uploads/2020/05/Recomenda%C3%A7%C3%A3o-%C3%A0s-Institui%C3%A7%C3%B5es-de-Ensino-Superior-no-%C3%A2mbito-da-Lei-n.%C2%BA-38.2018-de-7-de-agosto.pdf" target="_blank" style="text-decoration:none"><div id="button_3b82ee4e">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -123,11 +171,11 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_56f0257b"><div id="container_56f0257b_padding" ><div class="textstyle1"><div id="container_146ea582"><div id="container_146ea582_padding" ><div class="textstyle1">    <span class="textstyle4">Despacho n.&#186; 7247/2019 - Estabelece as medidas administrativas para implementa&#231;&#227;o do previsto no n.&#186; 1 do artigo 12.&#186; da Lei n.&#186; 38/2018, de 7 de agosto</span>
+<div style="clear:both"></div></div></div><div id="container_56f0257b"><div id="container_56f0257b_padding" ><div class="textstyle1"><div id="container_146ea582"><div id="container_146ea582_padding" ><div class="textstyle1">    <span class="textstyle7">Despacho n.&#186; 7247/2019 - Estabelece as medidas administrativas para implementa&#231;&#227;o do previsto no n.&#186; 1 do artigo 12.&#186; da Lei n.&#186; 38/2018, de 7 de agosto</span>
 </div>
 </div></div><div id="container_608c5ba8"><div id="container_608c5ba8_padding" ><div class="textstyle1">    <a href="https://files.diariodarepublica.pt/2s/2019/08/156000000/0002100023.pdf" target="_blank" style="text-decoration:none"><div id="button_53410e57">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle5">
-          <span class="textstyle6">Link</span>
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+          <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -138,61 +186,7 @@
 <div style="clear:both"></div></div></div></div>
 <div style="clear:both"></div></div></div>    </div>
 </div>
-<img src="rc_images/tc2.png" width="191" height="40" id="img_33e818a" alt="" title="" /><div id="menu_64f37254"><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
-	<div id="menuentry_7912be8c"  class="menustyle1 menu_64f37254_mainMenuEntry mobileEntry">
-		<div class="menuentry_text1">
-  <span class="textstyle8">&#8801;</span>
-		</div>
-	</div>
-</a>
-<a href="index.html" style="text-decoration:none" tabindex="-1">
-	<div id="menuentry_3f14847d"  class="menustyle2 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle9">In&#237;cio</span>
-		</div>
-	</div>
-</a>
-<a href="javascript:void(0);" tabindex="-1" aria-label="Recursos" >
-	<div id="menuentry_297d27c3"  class="menustyle3 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle9">Recursos</span>
-		</div>
-	</div>
-</a>
-<a href="sobre.html" style="text-decoration:none" tabindex="-1">
-	<div id="menuentry_353a5805"  class="menustyle4 menu_64f37254_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-  <span class="textstyle9">Sobre</span>
-		</div>
-	</div>
-</a>
-
-	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
-	<script type="text/javascript">
-		var js_menu_64f37254= new wsp_menu('menu_64f37254', 'menu_64f37254', 50, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 50, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
-
-		js_menu_64f37254.createMenuForItem('menuentry_7912be8c', ["  <span class=\"textstyle10\">In&#237;cio</span> ", 'index.html', '',
-		                                   "  <span class=\"textstyle10\">Recursos</span> ", 'javascript:void(0);', '',
-		                                   "  <span class=\"textstyle10\">&#160;&#160;&#160;Hospitais, Cl&#237;nicas e M&#233;dicos</span> ", 'clinicas.html', '',
-		                                   "  <span class=\"textstyle10\">&#160;&#160;&#160;Documentos e Procedimentos Administrativos</span> ", 'docs', '',
-		                                   "  <span class=\"textstyle10\">&#160;&#160;&#160;Comunidade</span> ", 'comunidade.html', '',
-		                                   "  <span class=\"textstyle10\">Sobre</span> ", 'sobre.html', '']
-		                                   , true);
-		js_menu_64f37254.createMenuForItem('menuentry_3f14847d', []);
-		js_menu_64f37254.createMenuForItem('menuentry_297d27c3', ["  <span class=\"textstyle10\">Hospitais, Cl&#237;nicas e M&#233;dicos</span> ", 'clinicas.html', '',
-		                                   "  <span class=\"textstyle10\">Documentos e Procedimentos Administrativos</span> ", 'docs', '',
-		                                   "  <span class=\"textstyle10\">Comunidade</span> ", 'comunidade.html', '']);
-		js_menu_64f37254.createMenuForItem('menuentry_353a5805', []);
-
-	</script>
-</div></div><div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle1">  <img src="rc_images/tc2.png" width="191" height="40" id="img_46b0c69c" alt="" title="" />
-  <div id="text_7b66f638">
-    <div class="textstyle1">
-      <span class="textstyle6">geral@TransCenas.org</span>
-      </div>
-    </div>
-  <img src="rc_images/openclipart_vectors_letter_147563_1920.png" width="1920" height="1372" id="img_9e8f6cb" alt="" title="" />
-</div>
+<div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle8"><img src="rc_images/tc2.png" width="191" height="40" id="img_46b0c69c" alt="" title="" /><span class="textstyle9">       geral@TransCenas.org</span></div>
 <div style="clear:both"></div></div></div>  </div>
 </body>
 </html>
