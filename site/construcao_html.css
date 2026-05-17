@@ -1,0 +1,12 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_1f9b8a4b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_1f9b8a4b_padding { margin: 10px; display: block;  }
+#text_1fc046bc { position:absolute; left:26%; top:21%; width:533px; height:108px; background:none;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
