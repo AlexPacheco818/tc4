@@ -1,4 +1,3 @@
-h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
 a { color:#5D5D9E; } 
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
@@ -23,45 +22,41 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_1b166e26 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#E0E6EC; border-top: none; border-left: none; border-right: none; border-bottom: 2px solid #000040;  }
 #container_1b166e26_padding { margin: 10px; display: block;  }
 #placeh_21c46e0d { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:724px;  }
-#container_73838185 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:449px; background-color:#F2E2DE;  }
-#container_73838185_padding { margin: 10px; display: block;  }
-#text_688655a9 { position:absolute; left:8%; top:13%; background:none;  }
+#container_73838185 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:355px; background-color:#F2E2DE;  }
+#container_73838185_padding { margin: 10px 10px 10px 70px; display: block;  }
+#container_6485017a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:66px; background:none;  }
+#container_6485017a_padding { margin: 10px 10px 10px -20px; display: block;  }
 .textstyle2 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
-#text_70a6854 { position:absolute; left:13%; top:39%; background:none;  }
-.textstyle3 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
-.textstyle4 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle4 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle5 { font-size:14pt; font-family:Candara, Optima, 'Noto Sans', source-sans-pro, sans-serif; color:#000000;  }
 #container_43d30ea6 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#E0E6EC;  }
 #container_43d30ea6_padding { margin: 10px; display: block;  }
 #container_70481903 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:56px; background:none;  }
-#container_70481903_padding { margin: 10px; display: block;  }
-#heading_4af4fd3 { position:absolute; left:19%; top:9%; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left; font-weight:bold;  }
-#img_5c4352dd { position:absolute; left:16%; top:1%; width:3%; background:none; height:auto;  }
+#container_70481903_padding { margin: 10px 10px 10px 50px; display: block;  }
 #container_59e4424e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E0E6EC;  }
 #container_59e4424e_padding { margin: 10px; display: block;  }
 #container_168929e3 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #404040;  }
 #container_168929e3_padding { margin: 10px; display: block;  }
 #container_22b13e78 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:129px; background:none;  }
-#container_22b13e78_padding { margin: 10px; display: block;  }
-#text_7b6b87c8 { position:absolute; left:23%; top:21%; width:847px; height:74px; background:none;  }
+#container_22b13e78_padding { margin: 10px 10px 10px 60px; display: block;  }
 #container_a2ea536 { vertical-align: top; position:relative; display: inline-block; width:20%; min-height:128px; background:none;  }
 #container_a2ea536_padding { margin: 10px; display: block;  }
 #button_2572aa03 { box-sizing: border-box; border-radius: 5px; position:absolute; left:15%; top:4%; width:110px; height:40px; background-color:rgba(224, 230, 236, 0.498039); border: 2px solid #595959; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
-.textstyle5 { text-align:center; }
-.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle6 { text-align:center; }
 #container_ee7e9f1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E0E6EC;  }
 #container_ee7e9f1_padding { margin: 10px; display: block;  }
 #container_a846825 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #404040;  }
 #container_a846825_padding { margin: 10px; display: block;  }
 #container_3e86ccdb { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:129px; background:none;  }
-#container_3e86ccdb_padding { margin: 10px; display: block;  }
-#text_3cd59a72 { position:absolute; left:23%; top:21%; width:847px; height:74px; background:none;  }
+#container_3e86ccdb_padding { margin: 10px 10px 10px 60px; display: block;  }
 #container_65bb95e9 { vertical-align: top; position:relative; display: inline-block; width:20%; min-height:128px; background:none;  }
 #container_65bb95e9_padding { margin: 10px; display: block;  }
 #button_541cc4d { box-sizing: border-box; border-radius: 5px; position:absolute; left:15%; top:4%; width:110px; height:40px; background-color:rgba(224, 230, 236, 0.498039); border: 2px solid #595959; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 #img_33e818a { position:absolute; left:7%; top:1%; width:12%; background:none; height:auto;  }
-#menu_64f37254 { box-sizing: border-box; position:absolute; left:20%; top:1%; width:40%; height:37px; text-align:left; background-color:#E0E6EC; border: 1px solid #A0A0A0;  }
+#menu_64f37254 { position:absolute; left:20%; top:1%; width:40%; height:37px; text-align:left; background-color:#E0E6EC;  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .menustyle1 { position:absolute; width:117px; height:37px; left:50px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
