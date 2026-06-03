@@ -20,9 +20,9 @@ a:hover { color:#B2B3B4; }
 body { background-color:#E0E6EC; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_1b166e26 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#E0E6EC; border-top: none; border-left: none; border-right: none; border-bottom: 2px solid #000040;  }
-#container_1b166e26_padding { margin: 10px; display: block;  }
+#container_1b166e26_padding { margin: 10px 100px 10px 100px; display: block;  }
 #img_33e818a { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 70px; background:none; height:auto;  }
-#menu_64f37254 { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 10px; width:40%; height:37px; text-align:left; background-color:#E0E6EC;  }
+#menu_64f37254 { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 10px; width:46%; height:37px; text-align:left; background-color:#E0E6EC;  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .menustyle1 { position:absolute; width:117px; height:37px; left:50px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
@@ -67,8 +67,10 @@ body { background-color:#E0E6EC; padding:0;  margin: 0; }
 #container_55438bde_padding { margin: 10px; display: block;  }
 #button_766ea345 { box-sizing: border-box; border-radius: 5px; position:absolute; left:15%; top:4%; width:110px; height:40px; background-color:rgba(224, 230, 236, 0.498039); border: 2px solid #595959; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
 #container_3bd38d17 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:68px; background-color:#E0E6EC; border-top: 2px solid #000040; border-left: none; border-right: none; border-bottom: none;  }
-#container_3bd38d17_padding { margin: 10px; display: block;  }
-#img_46b0c69c { vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 0px 70px; width:13%; background:none; height:auto;  }
+#container_3bd38d17_padding { margin: 10px 100px 10px 100px; display: block;  }
+.textstyle10 { text-align:right; }
+.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; line-height: 0.5;  }
+#img_55c7cedb { vertical-align: bottom; position:relative; display: inline-block; width:3%; background:none; height:auto;  }
 @media only screen and (max-width: 400px)
 {
 		#container_586c6f3e { width:100%;  }

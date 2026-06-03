@@ -4,8 +4,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="docs.css?h=f5f5d8ce">
+	<title>Atualiza&#231;&#227;o de diplomas e certificados de habilita&#231;&#227;o do ensino superior</title>
+	<link rel="stylesheet" type="text/css" href="docs.css?h=fae8704b">
 </head>
 <body>
 <div class="textstyle1">
@@ -59,75 +59,158 @@
 </div></div></div>
 <div style="clear:both"></div></div></div><div  id="placeh_21c46e0d" >
   <div class="textstyle1">
-<div id="container_7bfc192b"><div id="container_7bfc192b_padding" ><div class="textstyle1"><span class="textstyle5">Documentos e Procedimentos Administrativos<br/></span><span class="textstyle6"><br/></span><span class="textstyle7">Informa&#231;&#227;o sobre v&#225;rios procedimentos administrativos para mudan&#231;a de nome, atualiza&#231;&#227;o de documentos, e legisla&#231;&#227;o.</span></div>
-</div></div><div id="container_4466483b"><div id="container_4466483b_padding" ><div class="textstyle1"><div id="container_7d35d100"><div id="container_7d35d100_padding" ><div class="textstyle8">    <a href="mudanca_nome" style="text-decoration:none"><div id="button_2b8572f0">
-      <div id="button_2b8572f0_padding" >
-        <div class="textstyle8">
-          <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio e marcador de sexo no Cart&#227;o de Cidad&#227;o</span>
-          </div>
-        <div class="textstyle1">
-          </div>
-        </div>
-      </div></a>
+<div id="container_7bfc192b"><div id="container_7bfc192b_padding" ><div class="textstyle1">    <span class="textstyle5">Documentos e Procedimentos Administrativos</span>
 </div>
-<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
+</div></div><div id="container_7e041a8c"><div id="container_7e041a8c_padding" ><div class="textstyle1"><div class="wsp_accordion" id="elem_24e3eb05"  style="vertical-align: top; position:relative; display: inline-block; margin:1px 0px 1px 0px; width:100%; height:120px; background:none; background:none;  height: auto;" >
+<button class="wsp_accordionButton" id="elem_24e3eb05_button" >
+Mudan&#231;a de nome e marcador de sexo no Cart&#227;o de Cidad&#227;o
+<span class="wsp_accordionButtonIndicator" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size:30pt" ></span>
+</button><div class="wsp_accordionContent" id="elem_24e3eb05_content" >
+<div class="wsp_accordionContentPadding" id="elem_24e3eb05_contentPadding" >
+<div id="text_5475a51b"><div id="text_5475a51b_padding" ><div class="textstyle1">    <span class="textstyle6">Para mudar o nome pr&#243;prio e o marcador de sexo (de M para F, ou de F para M), &#233; necess&#225;rio:<br/><br/></span>
+<ul id="ul_29c6944a" class="ulstyle1">
+<li>    <span class="textstyle6">  ter nacionalidade portuguesa;</span>
+</li>
+<li><span class="textstyle6">  ser maior de 18  anos (ver abaixo o procedimento para menores de 18 anos </span></li>
+</ul>
+<span class="textstyle6"><br/>N&#227;o &#233; necess&#225;rio qualquer diagn&#243;stico ou relat&#243;rio cl&#237;nico.<br/><br/>Caso estes requisitos sejam preenchidos, qualquer pessoa pode dirigir-se a uma conservat&#243;ria do registo civil e apresentar um requerimento para mudar o nome e o marcador de sexo. A resposta tem de ser dada dentro de um prazo de oito dias &#250;teis, e n&#227;o acarreta qualquer custo.<br/><br/>Ap&#243;s uma resposta positiva, &#233; necess&#225;rio pedir a emiss&#227;o de um novo Cart&#227;o de Cidad&#227;o atualizado, com um custo de 15 euros (pedido normal) ou 30 euros (pedido urgente).&#8203;<br/>Procedimento para menores de 18 anos<br/><br/>Entre os 16 e os 18 anos, o pedido de mudan&#231;a de nome pr&#243;prio e marcador de sexo tem de ser feito por um representante legal (ex: pais, guardi&#227;o legal) e &#233; preciso apresentar um relat&#243;rio m&#233;dico que ateste a capacidade de decis&#227;o e vontade informada do menor de idade. Este relat&#243;rio n&#227;o tem de ter qualquer men&#231;&#227;o a diagn&#243;sticos relativos &#224; identidade de g&#233;nero.</span></div>
+</div></div></div></div></div><script>
+var elem_24e3eb05_button_open = function()
+{
+   this.classList.toggle("active");
+	
+   var contentElm = this.nextElementSibling;
+	
+  if (contentElm.style.maxHeight) 
+  {
+      contentElm.style.maxHeight = null;
+  }  
+  else 
+  {
+     contentElm.style.maxHeight = contentElm.scrollHeight + "px";
+	 	
+  }
+}
+var elm = document.getElementById("elem_24e3eb05_button");
+elm.addEventListener("click", elem_24e3eb05_button_open);</script>
 </div>
-<div class="textstyle8">    <a href="mudanca-sem-marc" style="text-decoration:none"><div id="button_39d385">
-      <div id="button_39d385_padding" >
-        <div class="textstyle8">
-          <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio no Cart&#227;o de Cidad&#227;o sem mudan&#231;a do marcador de sexo</span>
-          </div>
-        <div class="textstyle1">
-          </div>
-        </div>
-      </div></a>
+<div class="textstyle7"><div class="wsp_accordion" id="elem_426fe36"  style="vertical-align: top; position:relative; display: inline-block; margin:1px 0px 1px 0px; width:100%; height:120px; background:none; background:none;  height: auto;" >
+<button class="wsp_accordionButton" id="elem_426fe36_button" >
+Mudan&#231;a de nome pr&#243;prio no Cart&#227;o de Cidad&#227;o sem mudan&#231;a do marcador de sexo
+<span class="wsp_accordionButtonIndicator" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size:30pt" ></span>
+</button><div class="wsp_accordionContent" id="elem_426fe36_content" >
+<div class="wsp_accordionContentPadding" id="elem_426fe36_contentPadding" >
+<div id="text_614a360"><div id="text_614a360_padding" ><div class="textstyle1">    <span class="textstyle6">Para mudar o nome pr&#243;prio sem mudar o marcador de sexo &#233; necess&#225;rio apresentar um requirimento numa conservat&#243;ria do registo civil. A mudan&#231;a tem de ser aprovada pelo conservador dos registos centrais, o nome tem de constar na lista de nomes permitidos de acordo com o marcador de sexo da pessoa (M ou F), e o pedido (independentemente de ser aprovado ou n&#227;o) acarreta um custo de 200 euros.<br/><br/>Ap&#243;s uma resposta positiva, &#233; necess&#225;rio pedir a emiss&#227;o de um novo Cart&#227;o de Cidad&#227;o atualizado, com um custo de 15 euros (pedido normal) ou 30 euros (pedido urgente).&#8203;</span>
 </div>
-<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
+</div></div></div></div></div><script>
+var elem_426fe36_button_open = function()
+{
+   this.classList.toggle("active");
+	
+   var contentElm = this.nextElementSibling;
+	
+  if (contentElm.style.maxHeight) 
+  {
+      contentElm.style.maxHeight = null;
+  }  
+  else 
+  {
+     contentElm.style.maxHeight = contentElm.scrollHeight + "px";
+	 	
+  }
+}
+var elm = document.getElementById("elem_426fe36_button");
+elm.addEventListener("click", elem_426fe36_button_open);</script>
 </div>
-<div class="textstyle8">    <a href="mudanca_escolar" style="text-decoration:none"><div id="button_39cca7a0">
-      <div id="button_39cca7a0_padding" >
-        <div class="textstyle1">
-          </div>
-        <div class="textstyle8">
-          <span class="textstyle7">Altera&#231;&#227;o de nome em contexto escolar</span>
-          </div>
-        <div class="textstyle1">
-          </div>
-        </div>
-      </div></a>
+<div class="textstyle1"><div class="wsp_accordion" id="elem_431e0d1c"  style="vertical-align: top; position:relative; display: inline-block; margin:1px 0px 1px 0px; width:100%; height:120px; background:none; background:none;  height: auto;" >
+<button class="wsp_accordionButton" id="elem_431e0d1c_button" >
+Altera&#231;&#227;o de nome em contexto escolar
+<span class="wsp_accordionButtonIndicator" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size:30pt" ></span>
+</button><div class="wsp_accordionContent" id="elem_431e0d1c_content" >
+<div class="wsp_accordionContentPadding" id="elem_431e0d1c_contentPadding" >
+<div id="text_50cd841"><div id="text_50cd841_padding" ><div class="textstyle1">    <span class="textstyle6">O Despacho n.&#186; 7247/2019 veio estabelecer medidas administrativas que devem ser adotadas pelas escolas de forma a garantir o respeito pela identidade e express&#227;o de g&#233;nero de todos estudantes.<br/><br/>A pedido dos encarregados de educa&#231;&#227;o (ou representante legal) de um estudante menor as escolas devem atualizar os documentos que est&#227;o expostos ao p&#250;blico para que mostrem o nome adotado do estudante, e devem faze-lo de tal forma que o nome n&#227;o apare&#231;a de forma diferente do nome de qualquer outro estudante. <br/><br/>Deve ainda ser assegurado o direito do estudante usar o seu nome adotado em todas as atividades escolares e extracurriculares, participar em atividades diferenciadas por g&#233;nero e ter acesso a balne&#225;rios de acordo com a sua identidade de g&#233;nero.<br/><br/>A lei n.&#186; 38/2018, de 7 de agosto estabelece ainda que, quando &#233; necess&#225;rio indicar os dados de um documento de identifica&#231;&#227;o (ex: exames nacionais), um estudante (ou o seu representante legal) pode pedir para usar as iniciais do nome pr&#243;prio que consta no documento, seguido do nome adotado, apelido completo e n&#250;mero do documento de identifica&#231;&#227;o. <br/><br/>Os documentos internos podem manter, sob confidencialidade, o nome que consta nos registos oficiais.<br/><br/>Estas medidas aplicam-se mesmo que a pessoa n&#227;o tenha mudado o nome no Cart&#227;o de Cidad&#227;o.</span>
 </div>
-<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
+</div></div></div></div></div><script>
+var elem_431e0d1c_button_open = function()
+{
+   this.classList.toggle("active");
+	
+   var contentElm = this.nextElementSibling;
+	
+  if (contentElm.style.maxHeight) 
+  {
+      contentElm.style.maxHeight = null;
+  }  
+  else 
+  {
+     contentElm.style.maxHeight = contentElm.scrollHeight + "px";
+	 	
+  }
+}
+var elm = document.getElementById("elem_431e0d1c_button");
+elm.addEventListener("click", elem_431e0d1c_button_open);</script>
+<div class="wsp_accordion" id="elem_2218d2b4"  style="vertical-align: top; position:relative; display: inline-block; margin:1px 0px 1px 0px; width:100%; height:120px; background:none; background:none;  height: auto;" >
+<button class="wsp_accordionButton" id="elem_2218d2b4_button" >
+Atualiza&#231;&#227;o de diplomas e certificados de habilita&#231;&#227;o do ensino superior
+<span class="wsp_accordionButtonIndicator" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size:30pt" ></span>
+</button><div class="wsp_accordionContent" id="elem_2218d2b4_content" >
+<div class="wsp_accordionContentPadding" id="elem_2218d2b4_contentPadding" >
+<div id="text_51dd1a2f"><div id="text_51dd1a2f_padding" ><div class="textstyle1">    <span class="textstyle6">Foi publicada pelo Minist&#233;rio da Ci&#234;ncia, Tecnologia e Ensino Superior uma recomenda&#231;&#227;o &#224;s institui&#231;&#245;es de ensino superior para que o direito &#224; autodetermina&#231;&#227;o de g&#233;nero seja respeitado nestas institui&#231;&#245;es de ensino e em meio acad&#233;mico. <br/><br/>De acordo com esta recomenda&#231;&#227;o, um estudante ou qualquer outro elemento da institui&#231;&#227;o que tenha mudado de nome e marcador de sexo no Cart&#227;o de Cidad&#227;o pode pedir a atualiza&#231;&#227;o do nome e men&#231;&#227;o do sexo nos documentos administrativos. Esta mudan&#231;a &#233; confidencial, e s&#243; &#233; preciso apresentar o Cart&#227;o de Cidad&#227;o atualizado (n&#227;o podem exigir a apresenta&#231;&#227;o de qualquer outro documento para al&#233;m deste). <br/><br/>Esta recomenda&#231;&#227;o inclui a atualiza&#231;&#227;o de diplomas e outros documentos relativos &#224; certifica&#231;&#227;o de habilita&#231;&#245;es, sendo que a emiss&#227;o destes documentos atualizados n&#227;o deve ser cobrada caso essa cobran&#231;a j&#225; tenha sido feita no passado.<br/><br/>Caso a pessoa ainda n&#227;o tenha mudado o nome e marcador de sexo no Cart&#227;o de Cidad&#227;o, as institui&#231;&#245;es de ensino devem atualizar os documentos que est&#227;o expostos ao p&#250;blico para que mostrem o nome adotado da pessoa. Os documentos internos podem manter, sob confidencialidade, o nome que consta nos registos oficiais.</span>
 </div>
-<div class="textstyle8">    <a href="outros_docs" style="text-decoration:none"><div id="button_184209dd">
-      <div id="button_184209dd_padding" >
-        <div class="textstyle1">
-          </div>
-        <div class="textstyle8">
-          <span class="textstyle7">Altera&#231;&#227;o de nome em outros documentos</span>
-          </div>
-        <div class="textstyle1">
-          </div>
-        </div>
-      </div></a>
+</div></div></div></div></div><script>
+var elem_2218d2b4_button_open = function()
+{
+   this.classList.toggle("active");
+	
+   var contentElm = this.nextElementSibling;
+	
+  if (contentElm.style.maxHeight) 
+  {
+      contentElm.style.maxHeight = null;
+  }  
+  else 
+  {
+     contentElm.style.maxHeight = contentElm.scrollHeight + "px";
+	 	
+  }
+}
+var elm = document.getElementById("elem_2218d2b4_button");
+elm.addEventListener("click", elem_2218d2b4_button_open);</script>
+<div class="wsp_accordion" id="elem_5ed68884"  style="vertical-align: top; position:relative; display: inline-block; margin:1px 0px 1px 0px; width:100%; height:120px; background:none; background:none;  height: auto;" >
+<button class="wsp_accordionButton" id="elem_5ed68884_button" >
+Utiliza&#231;&#227;o do nome adotado antes da mudan&#231;a nos registos
+<span class="wsp_accordionButtonIndicator" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-size:30pt" ></span>
+</button><div class="wsp_accordionContent" id="elem_5ed68884_content" >
+<div class="wsp_accordionContentPadding" id="elem_5ed68884_contentPadding" >
+<div id="text_4d2e226d"><div id="text_4d2e226d_padding" ><div class="textstyle1">    <span class="textstyle6">Mesmo que uma pessoa n&#227;o tenha mudado o nome nos registos, a lei n.&#186; 38/2018, de 7 de agosto estabelece que, quando &#233; necess&#225;rio indicar os dados de um documento de identifica&#231;&#227;o, uma pessoa (ou o seu representante legal) pode pedir para usar as iniciais do nome pr&#243;prio que consta no documento, seguido do nome adotado, apelido completo e n&#250;mero do documento de identifica&#231;&#227;o. </span>
 </div>
-<div class="textstyle1">    <span class="textstyle9"><br/><br/></span>
+</div></div></div></div></div><script>
+var elem_5ed68884_button_open = function()
+{
+   this.classList.toggle("active");
+	
+   var contentElm = this.nextElementSibling;
+	
+  if (contentElm.style.maxHeight) 
+  {
+      contentElm.style.maxHeight = null;
+  }  
+  else 
+  {
+     contentElm.style.maxHeight = contentElm.scrollHeight + "px";
+	 	
+  }
+}
+var elm = document.getElementById("elem_5ed68884_button");
+elm.addEventListener("click", elem_5ed68884_button_open);</script>
 </div>
-<div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_5263dfac"><div id="container_5263dfac_padding" ><div class="textstyle1"><div id="container_71037a78"><div id="container_71037a78_padding" ><div class="textstyle1">    <span class="textstyle10">Documentos</span>
+<div style="clear:both"></div></div></div><div id="container_5263dfac"><div id="container_5263dfac_padding" ><div class="textstyle1"><div id="container_71037a78"><div id="container_71037a78_padding" ><div class="textstyle1">    <span class="textstyle8">Documentos</span>
 </div>
-</div></div><div id="container_5d6f4aff"><div id="container_5d6f4aff_padding" ><div class="textstyle1"><div id="container_3ecdb7db"><div id="container_3ecdb7db_padding" ><div class="textstyle1">    <span class="textstyle7">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
+</div></div><div id="container_5d6f4aff"><div id="container_5d6f4aff_padding" ><div class="textstyle1"><div id="container_3ecdb7db"><div id="container_3ecdb7db_padding" ><div class="textstyle1">    <span class="textstyle6">Lei n.&#186; 38/2018, de 7 de agosto: Direito &#224; autodetermina&#231;&#227;o da identidade de g&#233;nero e express&#227;o de g&#233;nero e &#224; prote&#231;&#227;o das caracter&#237;sticas sexuais de cada pessoa</span>
 </div>
 </div></div><div id="container_495230ef"><div id="container_495230ef_padding" ><div class="textstyle1">    <a href="https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863" target="_blank" style="text-decoration:none"><div id="button_4447d3e4">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle7">
           <span class="textstyle9">Link</span>
-          </div>
-        <div class="textstyle1">
-          </div>
-        </div></div>
-      </div></a>
-    <a href="https://4e947f92-21a3-4cc8-bb9b-62e868cf3d1a.filesusr.com/ugd/c365a0_8e04694068894c7ca1a4f6946d78662b.pdf" target="_blank" style="text-decoration:none"><div id="button_1383d4b1">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
-          <span class="textstyle9">Download</span>
           </div>
         <div class="textstyle1">
           </div>
@@ -135,10 +218,10 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_59bce299"><div id="container_59bce299_padding" ><div class="textstyle1"><div id="container_1c4ecbc4"><div id="container_1c4ecbc4_padding" ><div class="textstyle1">    <span class="textstyle7">Mudan&#231;a de nome pr&#243;prio sem mudan&#231;a do marcador se sexo: C&#243;digo do Registo Civil - CRC - Artigo 104.&#186; Decreto-Lei n.&#186; 131/95</span>
+<div style="clear:both"></div></div></div><div id="container_59bce299"><div id="container_59bce299_padding" ><div class="textstyle1"><div id="container_1c4ecbc4"><div id="container_1c4ecbc4_padding" ><div class="textstyle1">    <span class="textstyle6">Mudan&#231;a de nome pr&#243;prio sem mudan&#231;a do marcador se sexo: C&#243;digo do Registo Civil - CRC - Artigo 104.&#186; Decreto-Lei n.&#186; 131/95</span>
 </div>
 </div></div><div id="container_7f1a60d2"><div id="container_7f1a60d2_padding" ><div class="textstyle1">    <a href="https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-34525275-58996090" target="_blank" style="text-decoration:none"><div id="button_76c2aff2">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle7">
           <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
@@ -147,10 +230,10 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_3669e0f5"><div id="container_3669e0f5_padding" ><div class="textstyle1"><div id="container_36035886"><div id="container_36035886_padding" ><div class="textstyle1">    <span class="textstyle7">Lista de nomes pr&#243;prios por g&#233;nero</span>
+<div style="clear:both"></div></div></div><div id="container_3669e0f5"><div id="container_3669e0f5_padding" ><div class="textstyle1"><div id="container_36035886"><div id="container_36035886_padding" ><div class="textstyle1">    <span class="textstyle6">Lista de nomes pr&#243;prios por g&#233;nero</span>
 </div>
 </div></div><div id="container_301a3c75"><div id="container_301a3c75_padding" ><div class="textstyle1">    <a href="https://irn.justica.gov.pt/Portals/33/Regras%20Nome%20Proprio/Lista%20Nomes%20Pr%C3%B3prios.pdf?ver=WNDmmwiSO3uacofjmNoxEQ%3D%3D" target="_blank" style="text-decoration:none"><div id="button_36360adc">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle7">
           <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
@@ -159,10 +242,10 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_38804bc0"><div id="container_38804bc0_padding" ><div class="textstyle1"><div id="container_94cf1da"><div id="container_94cf1da_padding" ><div class="textstyle1">    <span class="textstyle7">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
+<div style="clear:both"></div></div></div><div id="container_38804bc0"><div id="container_38804bc0_padding" ><div class="textstyle1"><div id="container_94cf1da"><div id="container_94cf1da_padding" ><div class="textstyle1">    <span class="textstyle6">Recomenda&#231;&#227;o &#224;s Institui&#231;&#245;es de Ensino Superior no &#226;mbito da Lei n.&#186; 38/2018, de 7 de agosto</span>
 </div>
 </div></div><div id="container_3a226f88"><div id="container_3a226f88_padding" ><div class="textstyle1">    <a href="https://www.cig.gov.pt/wp-content/uploads/2020/05/Recomenda%C3%A7%C3%A3o-%C3%A0s-Institui%C3%A7%C3%B5es-de-Ensino-Superior-no-%C3%A2mbito-da-Lei-n.%C2%BA-38.2018-de-7-de-agosto.pdf" target="_blank" style="text-decoration:none"><div id="button_3b82ee4e">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle7">
           <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
@@ -171,10 +254,10 @@
       </div></a>
 </div>
 <div style="clear:both"></div></div></div></div>
-<div style="clear:both"></div></div></div><div id="container_56f0257b"><div id="container_56f0257b_padding" ><div class="textstyle1"><div id="container_146ea582"><div id="container_146ea582_padding" ><div class="textstyle1">    <span class="textstyle7">Despacho n.&#186; 7247/2019 - Estabelece as medidas administrativas para implementa&#231;&#227;o do previsto no n.&#186; 1 do artigo 12.&#186; da Lei n.&#186; 38/2018, de 7 de agosto</span>
+<div style="clear:both"></div></div></div><div id="container_115e644e"><div id="container_115e644e_padding" ><div class="textstyle1"><div id="container_4ff4b861"><div id="container_4ff4b861_padding" ><div class="textstyle1">    <span class="textstyle6">Despacho n.&#186; 7247/2019 - Estabelece as medidas administrativas para implementa&#231;&#227;o do previsto no n.&#186; 1 do artigo 12.&#186; da Lei n.&#186; 38/2018, de 7 de agosto</span>
 </div>
-</div></div><div id="container_608c5ba8"><div id="container_608c5ba8_padding" ><div class="textstyle1">    <a href="https://files.diariodarepublica.pt/2s/2019/08/156000000/0002100023.pdf" target="_blank" style="text-decoration:none"><div id="button_53410e57">
-      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle8">
+</div></div><div id="container_1669005b"><div id="container_1669005b_padding" ><div class="textstyle1">    <a href="https://files.diariodarepublica.pt/2s/2019/08/156000000/0002100023.pdf" target="_blank" style="text-decoration:none"><div id="button_2120d1ae">
+      <div class="vcenterstyle1"><div class="vcenterstyle2">        <div class="textstyle7">
           <span class="textstyle9">Link</span>
           </div>
         <div class="textstyle1">
@@ -186,7 +269,9 @@
 <div style="clear:both"></div></div></div></div>
 <div style="clear:both"></div></div></div>    </div>
 </div>
-<div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle8"><img src="rc_images/tc2.png" width="191" height="40" id="img_46b0c69c" alt="" title="" /><span class="textstyle9">       geral@TransCenas.org</span></div>
+  </div>
+<div class="textstyle7">
+<div id="container_3bd38d17"><div id="container_3bd38d17_padding" ><div class="textstyle10"><span class="textstyle11">TransCenas 2026  </span><img src="rc_images/cc0social_1024x576.png" width="1024" height="576" id="img_55c7cedb" alt="" title="" /><span class="textstyle11">CC0 1<br/></span></div>
 <div style="clear:both"></div></div></div>  </div>
 </body>
 </html>
